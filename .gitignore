@@ -3,3 +3,6 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+data/dd6sw.tracker.json
+*.workspace
+data/tracker.json
