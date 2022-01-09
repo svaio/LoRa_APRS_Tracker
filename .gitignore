@@ -6,3 +6,4 @@
 data/dd6sw.tracker.json
 *.workspace
 data/tracker.json
+workspace.*
